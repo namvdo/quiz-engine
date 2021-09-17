@@ -15,7 +15,7 @@ Request body:
 ```json
 {
   "title": "The Java Logo",
-  "text": "What is depicted on the Java lo2222222go?",
+  "text": "What is depicted on the Java logo?",
   "options": ["Robot","Tea leaf","Cup of coffee","Bug"],
   "answer": [2]
 }
@@ -120,6 +120,7 @@ Response:
             "id": 0
         }
     ]
+}
 ```
 
 
